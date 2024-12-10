@@ -8,5 +8,7 @@ function draw() {
   fill('blue');
   stroke('green');
   strokeWeight(5);
-
+  
+  Rect(30, 30);
+  fill(255);
 }
